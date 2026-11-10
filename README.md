@@ -4,12 +4,12 @@ Accessible Workspace is a Gmail app for Windows built for JAWS, laid out like Ou
 
 This repository holds only the releases. Each release has:
 
-- `AccessibleMail.exe`: the app. It needs no installer and no .NET install.
+- `AccessibleWorkspace.exe`: the app. It needs no installer and no .NET install.
 - `latest.json`: the version, what's new, and the exe's size and SHA-256 fingerprint. The app reads it to update itself.
 
 ## Installing
 
-1. Open the newest release under Releases and download `AccessibleMail.exe`.
+1. Open the newest release under Releases and download `AccessibleWorkspace.exe`.
 2. Put it in a folder of your own, such as Documents, so the app can update itself there.
 3. Run it. The app isn't code-signed yet, so Windows SmartScreen warns the first time: choose More info, then Run anyway.
 
